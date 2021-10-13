@@ -12,3 +12,7 @@ http://www.cs.duke.edu/research/AI/LSPI/
 
 This programm code mainly comes from Devin's project 
 https://pythonhosted.org/lspi-python/index.html
+
+However, the following changes have been done according to the knowledge that I have got before:
+1) some mistakes have been found and revised accordingly
+2) some methods (functions) have been rewritten in a properer way
